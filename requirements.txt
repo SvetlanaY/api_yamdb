@@ -9,7 +9,9 @@ attrs==19.3.0             # via pytest
 certifi==2020.4.5.1       # via requests
 chardet==3.0.4            # via requests
 django==3.0.5             # via -r requirements.in, djangorestframework
+django-filter==2.2.0
 djangorestframework==3.11.0  # via -r requirements.in
+djangorestframework-simplejwt==4.4.0
 idna==2.9                 # via requests
 importlib-metadata==1.6.0  # via pluggy, pytest
 more-itertools==8.2.0     # via pytest

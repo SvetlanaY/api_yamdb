@@ -17,3 +17,7 @@ __pycache__/
 media/
 
 db.sqlite3
+*/migrations/
+/sent_emails/
+csv_to_sqlite_importer.py
+data/
